@@ -17,9 +17,3 @@ The **Student Record Management System** is a console-based program written in *
 🔹 **Dynamic Memory Allocation**: `malloc()` and `free()`  
 🔹 **Input Handling**: `scanf()` for user input  
 🔹 **Screen Handling**: `system("cls")` for UI refresh, `getch()` for user pause  
-
-## **How to Run the Program**  
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/your-username/student-record-management.git
-   cd student-record-management
